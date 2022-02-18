@@ -17,6 +17,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_stars: yes
           plugin_stars_limit: 4 # Limit to 4 entries
-          plugin_screenshot: yes
-          plugin_screenshot_title: Latest Articles
-          plugin_screenshot_url: https://aahansingh.com
